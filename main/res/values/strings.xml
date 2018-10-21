@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YandexTranslate16</string>
+    <string name="translate_button">Translate</string>
+    <string name="api_key">api_key</string>
+    <string name="error_msg">Error</string>
+    <string name="empty_input_msg">Input is empty</string>
+    <string name="language_selector_button">Select language</string>
+    <string name="select_language_msg">Please choise languages</string>
+</resources>
